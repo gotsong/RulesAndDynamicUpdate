@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RulesAndDynamicUpdate", "RulesAndDynamicUpdate.csproj", "{BA46C46B-8BE6-4371-9CA8-A9E30B15EE71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFTransactions", "WFTransactions\WFTransactions.csproj", "{32D7FB5C-772C-47D3-AFA6-AA265BD286DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA46C46B-8BE6-4371-9CA8-A9E30B15EE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA46C46B-8BE6-4371-9CA8-A9E30B15EE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA46C46B-8BE6-4371-9CA8-A9E30B15EE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA46C46B-8BE6-4371-9CA8-A9E30B15EE71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D7FB5C-772C-47D3-AFA6-AA265BD286DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D7FB5C-772C-47D3-AFA6-AA265BD286DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D7FB5C-772C-47D3-AFA6-AA265BD286DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D7FB5C-772C-47D3-AFA6-AA265BD286DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
